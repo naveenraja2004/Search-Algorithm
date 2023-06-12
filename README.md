@@ -111,15 +111,20 @@ else:
 
 
 ```
-## Sample Input and Output
-![python exp 3b 1](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/917a19ea-3778-4715-b931-0a33e90dd4fe)
+## Sample Input and Output:
+
+![python exp 3b 1](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/5f8664a2-1b7f-4fe7-b54e-cd345a16bc4e)
 
 
 
 
-![exp no 3b 2](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/6f2a1046-3e0b-44cb-958d-582deced03c5)
+![exp no 3b 2](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/9ae74444-1531-415e-8497-00b51fa1a127)
 
-![exp no 3b 3 python](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/ebf6416c-8c31-43e2-86b0-f9e4b5b42213)
+
+
+
+![exp no 3b 3 python](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/44f33307-75a1-4775-9318-f344b55cda13)
+
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
