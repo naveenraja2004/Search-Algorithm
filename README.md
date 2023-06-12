@@ -113,17 +113,6 @@ else:
 ```
 ## Sample Input and Output:
 
-![python exp 3b 1](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/ebb9711d-6bce-49f8-a4fd-b3c6d2b92997)
-
-
-
-
-![exp no 3b 2](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/ce0418aa-cbc5-4022-9a55-0a8e2cb6cf75)
-
-
-
-
-![exp no 3b 3 python](https://github.com/naveenraja2004/Search-Algorithm/assets/118707204/17e44266-4fcb-4317-a064-9efc1909c30a)
 
 
 
